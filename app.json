@@ -1,0 +1,12 @@
+{
+  "name": "Mrroin_Series_App",
+  "displayName": "Mrroin_Series_App",
+  "expo": {
+    "name": "Mrroin_Series_App",
+    "slug": "Mrroin_Series_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

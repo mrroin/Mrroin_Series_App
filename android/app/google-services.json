@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "501359414298",
+    "project_id": "mr-roin-app-series",
+    "storage_bucket": "mr-roin-app-series.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501359414298:android:06763ca6487bac73d215a3",
+        "android_client_info": {
+          "package_name": "com.mrroinseriesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501359414298-jrtvft2ho9qr5s21qefjr2m34iblvh3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrroinseriesapp",
+            "certificate_hash": "9d1b5b1390eef75d5f4d266caec11499a162bc13"
+          }
+        },
+        {
+          "client_id": "501359414298-o5tjg85iosdvrncjhgdub20pdknij1dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGOmylBoE7ipWQSJ4XBsIqcsmwZN0FmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501359414298-o5tjg85iosdvrncjhgdub20pdknij1dd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501359414298-5imv8l6imsadcimfv1clveihmotliu5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.MrroinSeriesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "react-native": {
+    "database_persistence_enabled": true,
+    "messaging_android_notification_channel_id": "high-priority",
+    "messaging_android_headless_task_timeout": 30000,
+    "messaging_auto_init_enabled": false,
+    "android_task_executor_maximum_pool_size": 10,
+    "android_task_executor_keep_alive_seconds": 3
+  },
+  "configuration_version": "1"
+}
